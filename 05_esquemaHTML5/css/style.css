@@ -1,0 +1,25 @@
+.main_header{
+    background-color: brown;
+    color: white;
+    text-align: center;
+  
+}
+
+
+}
+.mainfooter{
+    background-color: brown;
+    color: white;
+    text-align: right;
+    padding: 1.33rem;
+
+}
+.h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+
