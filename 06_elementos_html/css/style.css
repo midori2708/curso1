@@ -1,6 +1,11 @@
 body {
     margin: 0;
+    background:  
 }
+h1{
+    font-size: 50px
+}
+
 .main_header {
     background-color: #84D8A5;
     color: black;
@@ -14,7 +19,7 @@ body {
 
 .main_footer {
     background-color:#84D8A5 ;
-    color: darkblue;
+    color:black;
     text-align: center;
     padding: 1rem;
 }
@@ -53,7 +58,6 @@ blockquote {
     max-width: 60%;
     margin: 20px;
     padding: 20px;
-    background: #BFF5D4;
     border-left:3px solid black;
 }
 
@@ -72,4 +76,21 @@ li {
 
  dt, dd {
      display: inline-block;
+ }
+ .main_footer {
+     margin-bottom: 
+ }
+ .verde {
+     color : green;
+     font-weight: bold;
+ }
+ strong{
+     font-weight: normal;
+ }
+ h3{
+     font-size: 30px;
+     color: #09351A;
+ }
+ span{
+     color: #7FF80C;
  }
