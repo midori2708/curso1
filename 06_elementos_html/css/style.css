@@ -2,7 +2,7 @@ body {
     margin: 0;
       
 }
-h1{
+h1 {
     font-size: 50px
 }
 
@@ -49,7 +49,7 @@ h1{
     text-align: center;
 }
 
- /* Se adapta la imagen al ancho máximo de la pantalla */
+
 img {
     max-width: 100%;
 }
@@ -94,9 +94,7 @@ li {
  dt, dd {
      display: inline-block;
  }
- .main_footer {
-     margin-bottom: 
- }
+ 
  .verde {
      color : green;
      font-weight: bold;
@@ -108,8 +106,7 @@ li {
      font-size: 30px;
      color: #09351A;
     border: solid 2px gray;
- span{
-     color: #7FF80C;
+ 
  }
  .center{
      text-align: center;
