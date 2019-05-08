@@ -1,24 +1,41 @@
 body {
     margin: 0;
-    background:  
+      
 }
 h1{
     font-size: 50px
 }
 
 .main_header {
-    background-color: #84D8A5;
+    background-color: #96E6E6;
     color: black;
     text-align: center;
     padding: 1rem;
+    margin-bottom: 2rem;
+
 }
 
 .main_header p {
     font-weight: bold;
 }
+.main_header nav ul {
+    list-style-type: none
+    margin
+}
+.main_header nav li {
+    display: inline-block;
+    
+}
+.main_header nav a{
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 1rem;
+    
+}
 
 .main_footer {
-    background-color:#84D8A5 ;
+    background-color:#96E6E6 ;
     color:black;
     text-align: center;
     padding: 1rem;
@@ -90,7 +107,13 @@ li {
  h3{
      font-size: 30px;
      color: #09351A;
- }
+    border: solid 2px gray;
  span{
      color: #7FF80C;
  }
+ .center{
+     text-align: center;
+ }
+ abbr[title] {
+    text-decoration: none;
+}
