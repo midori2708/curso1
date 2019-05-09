@@ -55,12 +55,73 @@
                             <li>webn</li>
                         </ul>
                    
-    
-                    <li>Elementos y navegacion graficos</li>
-                    
+                    <li>Elementos y navegacion graficas</li>
                 </ul>
+
+                
+                
+                <section class="seccion_imagenes">
+                    <h3>Imagenes</h3>
+                
+                <!-- <img src="./ascets/komodo.jpg" alt="Dragon de komodo"> -->
+                <img src="./ascets/varanococodrilo1.png" alt="varano cocodrilo">
+                <img src="./ascets/ardilla.gif" alt="ardilla">
+                <img srcset="./ascets/3boats.webp"º src="./ascets/3boats.jpg" alt="barcas">
+               
+                <div class=" clearfix"></div>
+                
+                </section> 
+                
+                <p>Uso de imagenes reponsive en HTML</p>
+               
+
+                <!-- para adaptar la imagen de acuerdo a la pantalla   -->
+                <div>
+                   <img srcset="./ascets/komodo.300.jpg 300w, 
+                                 ./ascets/komodo.400.jpg 400w, 
+                                 ./ascets/komodo.500.jpg 500w,
+                                 ./ascets/komodo.jpg 600w"
+                                 sizes="(max-width: 300px),
+                                        (max-width: 400px),
+                                        (max-width: 500px)"
+                                 src="./ascets/komodo.jpg" alt="komodo">
+                   
+                </div>
+                 
+                <p>Etiqueta Picture</p>
+
+                <section>
+                    <picture>
+                            
+                            <source srcset="./ascets/dog.200.jpg" media="(max-width:300px)">
+                                <source srcset="./ascets/dog.300.jpg" media="(max-width:400px)">
+                                <source srcset="./ascets/dog.400.jpg" media="(max-width:500px)">
+                                <img srcset="./ascets/dog.jpg" alt="dog">
+                            </picture>
+                           
+                            
+                    </picture>
+
+                </section>
+               
+                <div class=" clearfix"></div>
+                 
+                
+                
+                
+                <section class="video_audio">
+                    
+                    <h3>Video y audio</h3>
+                </section>
+
+
+                <section class="graficas">
+                    <h3>Elementos y navegacon gráficas</h3>
+                </section>
+            
+            
             </section>
-        
+            
         </main>
         
     
@@ -68,11 +129,11 @@
                 <h2>Publicidad</h2>
     
                 <p>aqui iria la publicidad</p>
-            </aside>
+        </aside>
     </div>
 
     <footer class="main_footer">
-            <p>Designed by gianella</p>
+            <p>Designed by Gianella</p>
             <!-- Enlace de correo -->
             <a rel="author" href="morianogianella@gmail.com"></a>
     </footer>
