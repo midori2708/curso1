@@ -1,0 +1,142 @@
+window.C14BannerSystem_ES_legals = [
+    {
+        "id": "arona_1000",
+        "var": "sep_01",
+        "text1": "Consumo medio combinado[120x600][160x600] de 4,0 a 5,1[180x150] l/100 km.[300x600][300x300][728x250][300x100][320x100] Emisiones[300x250][160x600][120x600][320x480] de[320x50] CO2 de 105 a 115[180x150] g/km.[300x300][160x600][120x600][300x600][728x250][300x100][320x100][468x60] Consulta condiciones en seat.es",
+        "price": "Consumo medio combinado[120x600][160x600] de 4,0 a 5,1[180x150] l/100 km.[300x600][300x300][728x250][300x100][320x100] Emisiones[300x250][160x600][120x600][320x480] de[320x50] CO2 de 105 a 115[180x150] g/km.[300x300][160x600][120x600][300x600][728x250][300x100][320x100][468x60] Consulta condiciones en seat.es",
+        "text2": "Consumo medio combinado[120x600][160x600] de 4,0 a 5,1[180x150] l/100 km.[300x600][300x300][728x250][300x100][320x100] Emisiones[300x250][160x600][120x600][320x480] de[320x50] CO2 de 105 a 115[180x150] g/km.[300x300][160x600][120x600][300x600][728x250][300x100][320x100][468x60] Consulta condiciones en seat.es",
+        "text3": "color",
+        "catalan": "Septiembre",
+        "undefined": "Consum mitjà combinat de 4,3 a 5,0 l/100 km.[300x100] Emissions de CO2 de 112 a 118 g/km.[300x100] Consulta condicions a seat.es"
+    },
+    {
+        "id": "ateca_1000",
+        "var": "sep_01",
+        "text1": "Consumo medio combinado de[120x600] 4,6 a 5,4[180x150][160x600][320x100] l/100 km.[300x600][300x300][728x250] Emisiones[300x100][300x250][320x480] de[120x600] CO2[300x50] de[468x60] 120 a 128[160x600][180x150][320x50][320x100] g/km.[300x300][300x600][728x250] Consulta[120x600] condiciones en seat.es",
+        "price": "Consumo medio combinado de[120x600] 4,6 a 5,4[180x150][160x600][320x100] l/100 km.[300x600][300x300][728x250] Emisiones[300x100][300x250][320x480] de[120x600] CO2[300x50] de[468x60] 120 a 128[160x600][180x150][320x50][320x100] g/km.[300x300][300x600][728x250] Consulta[120x600] condiciones en seat.es",
+        "text2": "Consumo medio combinado de[120x600] 4,6 a 5,4[180x150][160x600][320x100] l/100 km.[300x600][300x300][728x250] Emisiones[320x50][300x100][300x250][320x480] de[120x600] CO2[300x50] de[468x60] 120 a 128[160x600][180x150][320x100] g/km.[300x300][300x600][728x250] Consulta[120x600] condiciones en seat.es",
+        "undefined": "Consumo medio combinado de[120x600] 4,6 a 5,4[180x150][160x600][320x100] l/100 km.[300x600][300x300][728x250] Emisiones[300x100][300x250][320x480] de[120x600] CO2[300x50] de[468x60] 120 a 128[160x600][180x150][320x50][320x100] g/km.[300x300][300x600][728x250] Consulta[120x600] condiciones en seat.es"
+    },
+    {
+        "id": "posventa_1000",
+        "var": "oct_01",
+        "text1": "Consumo medio combinado[160x600][120x600] de 4,3 a[180x150] 5,0 l/100 km.[300x600] Emisiones[300x250][160x600][120x600] de CO2[468x60] de[180x150] 112 a 118 g/km.[300x600][160x600][120x600] Consulta condiciones[180x150] en seat.es",
+        "text2": "Consumo medio combinado[160x600][120x600] de 4,3 a[180x150] 5,0 l/100 km.[300x600] Emisiones[300x250][160x600][120x600] de CO2[468x60] de[180x150] 112 a 118 g/km.[300x600][160x600][120x600] Consulta condiciones[180x150] en seat.es",
+        "undefined": "Consumo medio combinado[160x600][120x600] de 4,3 a[180x150] 5,0 l/100 km.[300x600] Emisiones[300x250][160x600][120x600] de CO2[468x60] de[180x150] 112 a 118 g/km.[300x600][160x600][120x600] Consulta condiciones[180x150] en seat.es"
+    },
+    {
+        "id": "arona_1000",
+        "var": "oct_01",
+        "undefined": "Consum mitjà combinat de 4,3 a 5,0 l/100 km.[300x100] Emissions de CO2 de 112 a 118 g/km.[300x100] Consulta condicions a seat.es"
+    },
+    {
+        "id": "leon_1000",
+        "var": "oct_01",
+        "text1": "Consumo medio combinado[120x600] de 4,0[160x600] a 6,7[180x150][320x100] l/100 km.[300x150][120x600][300x600][300x300] Emisiones[300x100][300x250][320x480] de CO2[160x600][120x600][728x250][300x50][468x60] de 106 a 152[180x150][320x50][320x100] g/km.[980x250][300x150][300x300][300x600][970x250] Consulta[160x600][120x600] condiciones en seat.es"
+    },
+    {
+        "id": "ibiza_1000",
+        "var": "nov_01",
+        "text1": "Consumo medio combinado de[120x600] 3,8 a 5,0[180x150][160x600][300x100] l/100 km.[320x100][300x150][300x600] Emisiones[300x250][320x480] de[120x600] CO2[300x300][728x250][300x50][468x60] de 100 a 113[160x600][180x150][320x50] g/km.[120x600][320x100][980x250][300x150][300x600][300x100] Consulta condiciones en seat.es",
+        "price": "Por 9.990 €."
+    },
+    {
+        "id": "Ateca",
+        "var": "default",
+        "text1": "Consumo medio combinado [120x600] de 4,5 a 7,0 l/100 km. Emisiones de CO2 de 118 a 159 g/km. Consulta condiciones[300x250]en seat.es.",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "undefined": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+        "id": "arona_1000",
+        "var": "nov_01",
+        "text1": "Consumo medio combinado[120x600][160x600] de 4,3 a 5,0 l/100[180x150] km.[300x600][300x300][728x250][300x100][320x100] Emisiones[300x250][160x600][120x600][320x480][300x150] de[320x50] CO2 de 112 a 118 g/km.[180x150][300x300][160x600][120x600][300x600][728x250][300x100][320x100][468x60] Consulta condiciones en seat.es",
+        "price": "Por 13.900 €."
+    },
+    {
+        "id": "tarraco_1000",
+        "var": "dic_01",
+        "text1": "Consumo medio combinado de[120x600] 4,9 a[180x150] 7,3[160x600][300x100] l/100 km.[320x100][300x150][300x600] Emisiones[180x150][300x250][320x480] de[120x600] CO2[300x300][728x250][300x50][468x60] de 129 a 166[160x600][320x50] g/km.[970x250][120x600][320x100][980x250][300x150][300x600][300x100] Consulta[180x150] condiciones en seat.es."
+    },
+    {
+        "id": "ateca_1000",
+        "var": "ene_19",
+        "text1": "Consumo medio combinado[120x600] de 4,6 a 6,9[180x150][160x600][320x100] l/100 km.[320x480][120x600][300x600][300x300][980x250] Emisiones[300x100][300x250][728x250][728x90] de CO2[300x50][320x50] de[468x60] 120 a 156[160x600][120x600][180x150][320x100] g/km.[300x300][300x600] Consulta[320x480] condiciones[120x600] en seat.es",
+        "price": "18.200 €."
+    },
+    {
+        "id": "tarraco_1000",
+        "var": "ene_19",
+        "text1": "Consumo medio combinado[120x600] de 4,9 a 7,3[180x150][160x600][320x100] l/100 km.[320x480][120x600][300x600][300x300][980x250] Emisiones[300x100][300x250][728x250] de CO2[300x50][320x50] de[468x60] 129 a 166[160x600][120x600][180x150][320x100] g/km.[300x300][300x600] Consulta[320x480] condiciones[120x600] en seat.es"
+    },
+    {
+        "id": "ibiza_1000",
+        "var": "feb_19",
+        "text1": "Consumo medio combinado[120x600] de 3,8 a 5,0[180x150][160x600][320x100] l/100 km.[320x480][120x600][300x600][300x300] Emisiones[300x100][300x250] de CO2[300x50][320x50] de[468x60] 100 a 113[160x600][120x600][180x150][320x100] g/km.[300x300][300x600][728x250] Consulta[320x480] condiciones[120x600] en seat.es",
+        "price": "10.300 €."
+    },
+    {
+        "id": "ateca_1000",
+        "var": "feb_19",
+        "text1": "Consumo medio combinado[120x600] de 4,6 a 6,9[180x150][160x600][320x100] l/100 km.[320x480][120x600][300x600][300x300][980x250] Emisiones[300x100][300x250][728x250] de CO2[300x50][320x50] de[468x60] 120 a 156[160x600][120x600][180x150][320x100] g/km.[970x250][728x90][300x300][300x600] Consulta[320x480] condiciones[120x600] en seat.es"
+    },
+    {
+        "id": "tarraco_2000",
+        "var": "feb_19",
+        "text1": "*Consumo medio combinado de 5,7 a 9,5 l/100km. Emisiones ponderadas de CO2 de 148 a 214g/km. (Valores WLTP). Emisiones ponderadas de CO2 de 129 a 166 g/km. (Valores NEDC). Consulta condiciones en seat.es"
+    },
+    {
+        "id": "tarraco_precio",
+        "var": "mar_19",
+        "text1": "*Consumo medio combinado de 5,7 a 9,5 l/100km. Emisiones ponderadas de CO2 de 148 a 214g/km. (Valores WLTP) . Emisiones ponderadas de CO2 de 129 a 166 g/km. (Valores NEDC). Imagen acabado SEAT Tarraco Xcellence con opcionales. PVP Recomendado para Península y Baleares para SEAT Tarraco 1.5 TSI 110 kW (150 CV) Style con 7 asientos por 26.990 €. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, concesionario y Volkswagen Finance incluidos en el precio. Oferta válida hasta el 31/03/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 12.000€, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.",
+        "price": "26.990€."
+    },
+    {
+        "id": "concesionarios_pais_vasco",
+        "var": "mar_19",
+        "text1": "Consumo medio combinado Gama SEAT de 3,8 a 4,5 kg/100km (GNC) y 4,6 a 8,9 l/100km. Emisiones ponderadas  de CO2 Gama SEAT de 108 a 214g/km. (Valores WLTP) . Emisiones ponderadas de CO2 Gama SEAT de 82 a 168 g/km. (Valores NEDC).  Imagen acabado Ibiza FR con opcionales y León  FR con opcionales. Descuento válido para clientes particulares que cumplan las condiciones del Plan Renove del País Vasco y que financien el vehículo con Volkswagen Finance EFC, S.A.  El cálculo del descuento se ha realizado respecto al modelo de vehículo Ibiza 1.0 TSI 70kw (90CV) Style Plus e incluye las aportaciones comerciales de Marca, concesionario y Volkswagen Finance EFC, S.A.  Oferta válida hasta el 31/03/2019 o fin de fondos para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC, según condiciones contractuales un capital mínimo de 12.000 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT disponible si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos en el Pack Confianza SEAT son: 5 años de mantenimiento SEAT Service u 80.000km (lo que antes suceda), extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT."
+    },
+    {
+        "id": "arona_1000",
+        "var": "mar_19",
+        "text1": "Consumo medio combinado 3,8 a 4,5 kg/100km. Emisiones ponderadas de CO2 de 103 a 124g/km. (Valores WLTP). Emisiones ponderadas de CO2 de 92 a 100 g/km. (Valores NEDC). Imagen acabado Ibiza FR con opcionales, Arona FR con opcionales, León FR con opcionales. PVP recomendado para Península y Baleares para SEAT Ibiza 1.0 TGI 66 kW (90 CV) Reference Plus desde 11.990€ para clientes particulares que entreguen un vehículo de ocasión de más de 3 años de antigüedad, y 6 meses de pertenencia, a nombre del comprador del vehículo nuevo o familiar 2º grado o pareja legal. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, descuento mínimo de concesionario y Volkswagen Finance incluido en el precio. Oferta válida hasta el 31/03/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.",
+        "price": "11.990€.",
+        "text2": "Consumo medio combinado 3,8 a 4,5 kg/100km. Emisiones ponderadas de CO2 de 103 a 124g/km. (Valores WLTP). Emisiones ponderadas de CO2 de 92 a 100 g/km. (Valores NEDC). Imagen acabado Ibiza FR con opcionales, Arona FR con opcionales, León FR con opcionales. PVP recomendado para Península y Baleares para SEAT Ibiza 1.0 TGI 66 kW (90 CV) Reference Plus desde 11.990€ para clientes particulares que entreguen un vehículo de ocasión de más de 3 años de antigüedad, y 6 meses de pertenencia, a nombre del comprador del vehículo nuevo o familiar 2º grado o pareja legal. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, descuento mínimo de concesionario y Volkswagen Finance incluido en el precio. Oferta válida hasta el 31/03/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT. *Porcentaje obtenido de la comparación de un modelo SEAT con un motor TGI conduciendo en modo gas (GNC) con el mismo modelo de SEAT con un motor a gasolina o diésel, utilizando los datos oficiales y homologados de emisiones de CO2 y consumo promedio de combustible.",
+        "text3": "Consumo medio combinado 3,8 a 4,5 kg/100km. Emisiones ponderadas de CO2 de 103 a 124g/km. (Valores WLTP). Emisiones ponderadas de CO2 de 92 a 100 g/km. (Valores NEDC). Imagen acabado Ibiza FR con opcionales, Arona Xcellence con opcionales, León ST Style con opcionales. PVP recomendado para Península y Baleares para SEAT Ibiza 1.0 TGI 66 kW (90 CV) Reference Plus desde 11.990€ para clientes particulares que entreguen un vehículo de ocasión de más de 3 años de antigüedad, y 6 meses de pertenencia, a nombre del comprador del vehículo nuevo o familiar 2º grado o pareja legal. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, descuento mínimo de concesionario y Volkswagen Finance incluido en el precio. Oferta válida hasta el 31/03/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras.  Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT. *Porcentaje obtenido de la comparación de un modelo SEAT con un motor TGI conduciendo en modo gas (GNC) con el mismo modelo de SEAT con un motor a gasolina o diésel, utilizando los datos oficiales y homologados de emisiones de CO2 y consumo promedio de combustible.",
+        "undefined": "Consum mitjà combinat de 3,8 a 4,5 kg / 100 km. Emissions ponderades de CO2 de 103 a 124 g/km. (Valors WLTP). Emissions ponderades de CO2 de 92 a 100 g/km. (Valors NEDC). Imatge acabat Ibiza FR amb opcionals, Arona FR amb opcionals i León FR amb opcionals. PVP recomanat per a la Península i les Balears per a SEAT Ibiza 1.0 TGI 66 kW (90 CV) Reference Plus des d’11.990 € per a clients particulars que entreguin un vehicle d’ocasió de més de 3 anys d’antiguitat, i 6 mesos de pertinença, a nom del comprador del vehicle nou o familiar de 2n grau o parella legal. IVA, transport, impost de matriculació́, aportacions comercials de marca, descompte mínim de concessionari i Volkswagen Finance inclosos en el preu. Oferta vàlida fins al 31/03/2019 per a clients particulars que financin mitjançant Volkswagen Finance, SA EFC segons les condicions contractuals un capital mínim d’11.990 €, amb una permanència mínima del finançament de 48 mesos. Campanya incompatible amb altres ofertes financeres. Paquet Confiança SEAT inclòs en el preu si es finança la compra amb Volkswagen Finance SA EFC (vegeu les condicions contractuals). Els serveis inclosos són els següents: 5 anys de manteniment SEAT Service o 80.000 km (el que ocorri abans), extensió de garantia durant 3 anys addicionals als 2 anys de garantia del fabricant o 100.000 km (el que ocorri abans) i 5 anys de Servei Mobilitat SEAT."
+    },
+    {
+        "id": "arona_2000",
+        "var": "mar_19",
+        "text1": "Consumo medio combinado de 3,8 a 4,2 Kg/100Km (GNC) y 5,1 a 6,5 l/100 km. Emisiones de CO2 de 104 a 151 g/km. (Valores WLTP) . Emisiones ponderadas de CO2 de 98 a 115 g/km. (Valores NEDC). Imagen acabado Arona Xcellence con opcionales.\nPVP recomendado para Península y Baleares para SEAT ARONA 1.0 TSI 70 kW (95 CV) Reference Edition  por 13.990€. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, concesionario y Volkswagen Finance incluidos en el precio. Oferta válida hasta el 30/04/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 12.000 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.",
+        "price": "13.990€."
+    },
+    {
+        "id": "ibiza_alwayson",
+        "var": "abr_19",
+        "text1": "Consumo medio combinado 3,8 a 4,1 kg/100km (GNC) y de 4,6 a 6,4 l/100km. Emisiones ponderadas de CO2 de 103 a 143g/km. (Valores WLTP). Emisiones ponderadas de CO2 de 100 a 113 g/km. (Valores NEDC). Imagen acabado Ibiza FR con opcionales."
+    },
+    {
+        "id": "ateca_alwayson",
+        "var": "abr_19",
+        "text1": "Consumo medio combinado de 5,3 a 8,7 l/100 km. Emisiones ponderadas de CO2 de 138 a 198 g/km. (Valores WLTP) . Emisiones ponderadas de CO2 de 120 a 156 g/km. (Valores NEDC).  Imagen acabado SEAT Ateca FR con opcionales."
+    },
+    {
+        "id": "leon_runon",
+        "var": "abr_19",
+        "text1": "Consumo medio combinado de 4,0 a 4,5 kg/100km (GNC) y 4,6 a 7,9 l/100km. Emisiones ponderadas de CO2 de 108 a 179g/km. (Valores WLTP). Emisiones ponderadas de CO2 de 95 a 102 g/km. (Valores NEDC). Imagen acabado SEAT León FR con opcionales.\rPVP recomendado para Península y Baleares para León 5 puertas 1.0 TSI 85kw (115cv) St&Sp Reference EDITION por 14.300 € para clientes particulares que entreguen un vehículo de ocasión de más de 3 años de antigüedad, y 6 meses de pertenencia, a nombre del comprador del vehículo nuevo o familiar 2º grado o pareja legal. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, concesionario y Volkswagen Finance incluidos en el precio. Oferta válida hasta el 31/05/2019 para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.\r",
+        "price": "14.300€."
+    },
+    {
+        "id": "gama_suv",
+        "var": "may_19",
+        "text1": "Consumo medio combinado de 3,8 a 4,2 Kg/100Km (GNC) y 5,1 a 9,5 l/100 km. Emisiones de CO2 de 104 a 214 g/km. (Valores WLTP) . Emisiones ponderadas de CO2 de 98 a 166 g/km. (Valores NEDC). Imagen acabado Arona FR con opcionales, Ateca FR con opcionales, Tarraco Xcellence con opcionales. PVP recomendado para Península y Baleares para Arona 1.0 TSI 70kw (95cv) St&Sp Reference EDITION desde 13.990 € para clientes particulares que entreguen un vehículo de ocasión de más de 3 años de antigüedad, y 6 meses de pertenencia, a nombre del comprador del vehículo nuevo o familiar 2º grado o pareja legal. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, concesionario y Volkswagen Finance incluidos en el precio. Oferta válida hasta el 31/05/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.",
+        "tarraco": "Consumo medio combinado de 5,7 a 9,5 l/100km. Emisiones ponderadas de CO2 de 148 a 214g/km. (Valores WLTP) . Emisiones ponderadas de CO2 de 129 a 166 g/km. (Valores NEDC). Imagen acabado SEAT Tarraco Xcellence con opcionales. PVP Recomendado para Península y Baleares para SEAT Tarraco 1.5 TSI 110 kW (150 CV) Style con 7 asientos por 26.990 €. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, concesionario y Volkswagen Finance incluidos en el precio. Oferta válida hasta el 31/05/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990€, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.",
+        "arona": "Consumo medio combinado de 3,8 a 4,2 Kg/100Km (GNC) y 5,1 a 6,5 l/100 km. Emisiones de CO2 de 104 a 151 g/km. (Valores WLTP) . Emisiones ponderadas de CO2 de 98 a 115 g/km. (Valores NEDC). Imagen acabado Arona FR con opcionales. PVP recomendado para Península y Baleares para Arona 1.0 TSI 70kw (95cv) St&Sp Reference EDITION por 13.990 € para clientes particulares que entreguen un vehículo de ocasión de más de 3 años de antigüedad, y 6 meses de pertenencia, a nombre del comprador del vehículo nuevo o familiar 2º grado o pareja legal. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, concesionario y Volkswagen Finance incluidos en el precio. Oferta válida hasta el 31/05/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.",
+        "ateca": "Consumo medio combinado de 5,3 a 8,7 l/100 km. Emisiones ponderadas de CO2 de 138 a 198 g/km. (Valores WLTP) . Emisiones ponderadas de CO2 de 120 a 156 g/km. (Valores NEDC).  Imagen acabado SEAT Ateca FR con opcionales. PVP recomendado para Península y Baleares para Ateca 1.0 TSI 85kw (115cv) St&Sp Reference EDITION por 18.500 € para clientes particulares que entreguen un vehículo de ocasión de más de 3 años de antigüedad, y 6 meses de pertenencia, a nombre del comprador del vehiculo nuevo o familiar 2º grado o pareja legal. IVA, transporte e impuesto de matriculación, aportaciones comerciales de marca, concesionario y Volkswagen Finance incluidos en el precio. Oferta válida hasta el 31/05/2019  para clientes particulares que financien a través de Volkswagen Finance, S.A. EFC según condiciones contractuales un capital mínimo de 11.990 €, con una permanencia mínima de la financiación de 48 meses. Campaña incompatible con otras ofertas financieras. Pack Confianza SEAT incluido en el precio si se financia la compra con Volkswagen Finance SA EFC (ver las condiciones contractuales). Los servicios incluidos son los siguientes: 5 años de mantenimiento SEAT Service o 80.000km (lo que antes suceda), Extensión de garantía durante 3 años adicionales a los 2 años de garantía del fabricante o 100.000 Km (lo que antes suceda) y 5 años de Servicio Movilidad SEAT.",
+        "price": "13.990 €.",
+        "pricetarraco": "26.990 €.",
+        "pricearona": "13.990 €.",
+        "priceateca": "18.500 €."
+    }
+];

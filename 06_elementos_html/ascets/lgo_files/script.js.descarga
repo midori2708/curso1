@@ -1,0 +1,135 @@
+var Banner = Banner || {};
+
+
+Banner.init = function(){
+ Banner.animate();
+};
+
+
+Banner.animate = function(){
+
+
+	var timeline = new TimelineLite();
+    //timeline.timeScale( .25 );
+
+
+    timeline.to('#logo2', 0.25, {autoAlpha:1}, "init");
+    timeline.to('#ss_start', 0.25, {autoAlpha:1}, "init");
+
+
+    timeline.set({},{},"+=0.1");
+
+
+    timeline.to('#ss_middle', 0.0, {autoAlpha:1});
+    timeline.to('#ss_middle', 1.3, {y:-4000, ease:SteppedEase.config(16), repeat:0});
+    timeline.to('#ss_end', 0.05, {autoAlpha:1});
+
+
+    timeline.set({},{},"+=0.25");
+
+
+    timeline.to('#black', 0.4, {autoAlpha:1});
+
+    timeline.to('#icons', 0.0, {scale:1, y:70});
+
+    timeline.to('#eco_std', 0.0, {left:37.5, autoAlpha:0.3});
+    timeline.to('#auto_std', 0.0, {left:117.5});
+    timeline.to('#boost_std', 0.0, {left:197.5, autoAlpha:0.3});
+    timeline.to('#eco_alt', 0.0, {left:317.5, autoAlpha:0.3});
+    timeline.to('#auto_alt', 0.0, {left:317.5, autoAlpha:0.3});
+    
+    
+    timeline.to('#ss_start', 0.0, {autoAlpha:0});
+    timeline.to('#ss_middle', 0.0, {autoAlpha:0});
+    timeline.to('#ss_end', 0.0, {autoAlpha:0});
+
+
+    timeline.set({},{},"+=0.2");
+
+
+    timeline.to('#icons', 0.2, {autoAlpha:1}, "mode1");
+
+    timeline.to('#eco_std', 0.4, {left:18.75, ease: Power1.easeIn}, 'mode1');
+    timeline.to('#boost_std', 0.4, {left:216.25, ease: Power1.easeIn}, 'mode1');
+    timeline.to('#auto_std', 0.4, {autoAlpha:1, scale:1.6, ease: Power1.easeIn}, 'mode1');
+
+    timeline.set({},{},"+=0.55");
+
+    timeline.to('#icons', 0.5, {autoAlpha:0}, "i1");
+    // timeline.to('#txt1', 0.5, {autoAlpha:1}, "i1");
+    timeline.to('#img1', 0.5, {autoAlpha:1}, "i1");
+    timeline.to('#img1', 1.6, {scale:1.05}, "i1");
+
+    //timeline.set({},{},"+=0.013");
+
+    timeline.to('#icons', 0.4, {autoAlpha:1}, "e1");
+    // timeline.to('#txt1', 0.4, {autoAlpha:0}, "e1");
+    timeline.to('#img1', 0.4, {autoAlpha:0}, "e1");
+
+
+    timeline.to('#eco_std', 0.4, {left:-61.25, ease: Power1.easeIn}, 'mode2');
+    timeline.to('#auto_std', 0.4, {scale:1.0, left:18.75, ease: Power1.easeIn, autoAlpha:0.3}, 'mode2');
+    timeline.to('#boost_std', 0.4, {autoAlpha:1, left:117.5, ease: Power1.easeIn, scale:1.6}, 'mode2');
+    timeline.to('#eco_alt', 0.4, {left:216.25, ease: Power1.easeIn}, 'mode2');
+   
+    timeline.set({},{},"+=0.4");
+
+
+    timeline.to('#icons', 0.4, {autoAlpha:0}, "i2");
+    // timeline.to('#txt2', 0.4, {autoAlpha:1}, "i2");
+    timeline.to('#img2', 0.4, {autoAlpha:1}, "i2");
+    timeline.to('#img2', 1.6, {scale:1.05}, "i2");
+
+    //timeline.set({},{},"+=0.013");
+
+    timeline.to('#icons', 0.4, {autoAlpha:1}, "e2");
+    // timeline.to('#txt2', 0.4, {autoAlpha:0}, "e2");
+    timeline.to('#img2', 0.4, {autoAlpha:0}, "e2");
+
+
+
+    timeline.to('#auto_std', 0.45, {left:-61.25, ease: Power1.easeIn}, 'mode3');
+    timeline.to('#boost_std', 0.45, {left:18.75, ease: Power1.easeIn, autoAlpha:0.3, scale:1}, 'mode3');
+    timeline.to('#eco_alt', 0.45, {left:117.5, ease: Power1.easeIn, autoAlpha:1, scale:1.6}, 'mode3');
+    timeline.to('#auto_alt', 0.45, {left:216.25, ease: Power1.easeIn}, 'mode3');
+   
+
+    timeline.set({},{},"+=0.4");
+
+
+    timeline.to('#icons', 0.4, {autoAlpha:0}, "i3a");
+    // timeline.to('#txt3', 0.4, {autoAlpha:1}, "i3a");
+    timeline.to('#img3a', 0.4, {autoAlpha:1}, "i3a");
+    timeline.to('#img3a', 1.5, {scale:1.05}, "i3a");
+
+    timeline.to('#img3a', 0.3, {autoAlpha:0}, "i3b");
+    timeline.to('#img3b', 0.4, {autoAlpha:1, delay:0.2}, "i3b");
+    timeline.to('#img3b', 1.5, {scale:1.05, delay:0.2}, "i3b");
+
+    timeline.set({},{},"+=0.6");
+
+    // timeline.to('#txt3', 0.35, {autoAlpha:0}, "e3");
+    timeline.to('#img3b', 0.35, {autoAlpha:0}, "e3");
+
+
+    timeline.set({},{},"+=0.01");
+
+    timeline.to('#end', 0.5, {autoAlpha:1});
+
+    timeline.to('#claim', 0.5, {autoAlpha:1});
+
+
+    timeline.set({},{},"+=0.135");
+
+
+    timeline.to('#cta', 0.35, {autoAlpha:1});
+
+    timeline.set({},{},"+=0.2");
+    
+    timeline.from('#rtb', 0.35, {y:100, delay:0.0}, "r1");
+    timeline.to('#rtb', 0.1, {autoAlpha:1, delay:0.0}, "r1");
+    
+    
+    //timeline.seek(8.2555);
+	console.log(timeline.duration());
+}

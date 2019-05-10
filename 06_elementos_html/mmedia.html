@@ -52,7 +52,7 @@
                         <ul>
                             <li>mp4</li>
                             <li>ogg</li>
-                            <li>webn</li>
+                            <li>webm</li>
                         </ul>
                    
                     <li>Elementos y navegacion graficas</li>
@@ -63,11 +63,14 @@
                 <section class="seccion_imagenes">
                     <h3>Imagenes</h3>
                 
-                <!-- <img src="./ascets/komodo.jpg" alt="Dragon de komodo"> -->
-                <img src="./ascets/varanococodrilo1.png" alt="varano cocodrilo">
-                <img src="./ascets/ardilla.gif" alt="ardilla">
-                <img srcset="./ascets/3boats.webp"º src="./ascets/3boats.jpg" alt="barcas">
-               
+                         <!-- <img src="./ascets/komodo.jpg" alt="Dragon de komodo"> -->
+                            <img src="./ascets/varanococodrilo1.png" alt="varano cocodrilo">
+                            <img src="./ascets/ardilla.gif" alt="ardilla">
+                            <img srcset="./ascets/3boats.webp" src="./ascets/3boats.jpg" alt="barcas">
+                            <img src="./ascets/WoodElf.png" alt="Elf">
+                            <img src="./ascets/005 (1).gif" alt="">
+                            <img src="./ascets/logo.svg" alt="">
+                            <img srcset="./ascets/lgo.gif" src="./ascets/logo.svg" alt="">
                 <div class=" clearfix"></div>
                 
                 </section> 
@@ -81,44 +84,76 @@
                                  ./ascets/komodo.400.jpg 400w, 
                                  ./ascets/komodo.500.jpg 500w,
                                  ./ascets/komodo.jpg 600w"
-                                 sizes="(max-width: 300px),
+                        sizes="(max-width: 300px),
                                         (max-width: 400px),
                                         (max-width: 500px)"
-                                 src="./ascets/komodo.jpg" alt="komodo">
+                        src="./ascets/komodo.jpg" alt="komodo">
                    
                 </div>
                  
-                <p>Etiqueta Picture</p>
+                <p>ETIQUETA PICTURE</p>
 
                 <section>
                     <picture>
                             
                             <source srcset="./ascets/dog.200.jpg" media="(max-width:300px)">
-                                <source srcset="./ascets/dog.300.jpg" media="(max-width:400px)">
-                                <source srcset="./ascets/dog.400.jpg" media="(max-width:500px)">
-                                <img srcset="./ascets/dog.jpg" alt="dog">
-                            </picture>
+                            <source srcset="./ascets/dog.300.jpg" media="(max-width:400px)">
+                            <source srcset="./ascets/dog.400.jpg" media="(max-width:500px)">
+                            <img srcset="./ascets/dog.jpg" alt="dog">
+                    </picture>
                            
                             
+                    <picture>
+                            <source srcset="./ascets/logo.svg" type="image/svg+xml">
+                            <img src="./ascets/lgo.gif" alt="logo">
                     </picture>
-
+                    
+                <p>etiqueta figure</p>
+                
+                    <figure>
+                            <figcaption>LOBO</figcaption>
+                            <img src="./ascets/dog.jpg" alt="">
+                    
+                    </figure>
+                
                 </section>
+                
+               
                
                 <div class=" clearfix"></div>
                  
                 
                 
-                
                 <section class="video_audio">
                     
                     <h3>Video y audio</h3>
+                    <p>Es posible invcluir un video</p>
+                        <div class="embed-container">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/M4ZoCHID9GI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    
+                    <p>Otra opcion es reproducir videos de nuestro servidor</p>
+                        
+                        <video controls>
+                            <source src="./ascets/Ghost_in_the_Shell_Opening.webm" type="video/webm">
+                            <source src="./ascets/Ghost_in_the_Shell_Opening.mp4" type="video/mp4">
+                        </video>
                 </section>
+
 
 
                 <section class="graficas">
                     <h3>Elementos y navegacon gráficas</h3>
                 </section>
-            
+                
+
+                <aside class="aside">
+                    <h3>Elementos embebidos no multimedia </h3>
+                    
+                    <P>La etiqueta iframe permite accedera otra web desde la nuestra</P>
+
+                    <iframe class="web_externa" src="https://www.tajamar.es/" frameborder="0"></iframe>
+                </aside>
             
             </section>
             
